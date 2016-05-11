@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name_f">Борискин</string>
+    <string name="name_n">Сергей</string>
+    <string name="name_s">Алексеевич</string>
+    <string name="email">boriskin.serge@gmail.com</string>
+    <string name="my_txt">Альбомная ориентация"</string>
+
+
+
+</resources>
